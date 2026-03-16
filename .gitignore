@@ -1,0 +1,12 @@
+# Python dependencies
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Images / media
+*.jpeg
+*.jpg
+*.png
+*.gif
