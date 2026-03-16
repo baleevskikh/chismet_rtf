@@ -5,8 +5,3 @@ __pycache__/
 *.pyc
 *.pyo
 
-# Images / media
-*.jpeg
-*.jpg
-*.png
-*.gif
